@@ -1,0 +1,13 @@
+{
+  "name": "cs-haketon-bot",
+  "version": "1.0.0",
+  "description": "haketon bot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.14.2",
+  }
+}
